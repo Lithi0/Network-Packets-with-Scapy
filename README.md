@@ -4,7 +4,8 @@
 
 **Repository**: [Network-Packets-with-Scapy](https://github.com/Lithi0/Network-Packets-with-Scapy)
 
-This project is a comprehensive toolkit of network packet examples, written in Python and leveraging the power of **Scapy**. Each script simulates or manipulates different types of network traffic and protocols, providing a hands-on resource for learning and experimenting with network communication techniques. Please use this repository responsibly, as it is meant for educational and research purposes only. ![Cat Wink Emoji](https://cdn3.emoji.gg/emojis/9724_cat_wink.png)
+This project is a comprehensive toolkit of network packet examples, written in Python and leveraging the power of **Scapy**. Each script simulates or manipulates different types of network traffic and protocols, providing a hands-on resource for learning and experimenting with network communication techniques. Please use this repository responsibly, as it is meant for educational and research purposes only. <img src="https://cdn3.emoji.gg/emojis/9724_cat_wink.png" alt="Cat Wink Emoji" width="20" height="20">
+
 
 
 ---
@@ -73,7 +74,8 @@ These scripts include basic examples of network injections and simple exploitati
 
 ### ⚠️ **Disclaimer**
 
-All scripts are intended for **educational and research purposes only**. Misuse of these scripts, including unauthorized testing on networks, is illegal and against ethical hacking standards. By using this repository, you agree to take full responsibility for your actions. ![Cat Wink Emoji](https://cdn3.emoji.gg/emojis/9724_cat_wink.png)
+All scripts are intended for **educational and research purposes only**. Misuse of these scripts, including unauthorized testing on networks, is illegal and against ethical hacking standards. By using this repository, you agree to take full responsibility for your actions. <img src="https://cdn3.emoji.gg/emojis/9724_cat_wink.png" alt="Cat Wink Emoji" width="20" height="20">
+
 
 
 ---
