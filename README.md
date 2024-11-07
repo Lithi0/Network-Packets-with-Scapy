@@ -1,6 +1,6 @@
 # 🕸️ Network Packets with Scapy
 
-**Author**: Lithi0  
+**Author**: Lithiokride (Lithi0)
 **Repository**: [Network-Packets-with-Scapy](https://github.com/Lithi0/Network-Packets-with-Scapy)
 
 This project is a comprehensive toolkit of network packet examples, written in Python and leveraging the power of **Scapy**. Each script simulates or manipulates different types of network traffic and protocols, providing a hands-on resource for learning and experimenting with network communication techniques. Please use this repository responsibly, as it is meant for educational and research purposes only.
