@@ -25,7 +25,7 @@ Each file within this repository serves as a standalone script that performs a s
 
 ### Flooding Scripts
 
-These scripts are designed to send a large volume of packets to a target, overwhelming the service and potentially causing disruptions.
+These scripts are designed to send a large volume of packets to a target, overwhelming the service and potentially causing disruptions. (My favourite ones UwU)
 
 - **`ACK_Flood(randsrc).py`**: Generates a flood of TCP ACK packets with randomized source addresses to bypass IP-based filtering.
 - **`HTTP_Flood.py`**: Initiates an HTTP request flood, targeting web servers and potentially causing a denial of service.
